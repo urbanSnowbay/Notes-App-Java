@@ -1,2 +1,2 @@
 # Notes-App-Java
-MVVM architecture android (For learning purpose)
+MVVM Architecture Android (For learning purpose).
